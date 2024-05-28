@@ -15,3 +15,5 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- | --- |
 | **极搜中文搜索** | 资源搜索机器人🤖 | [@jisou](https://t.me/jiso?start=a_583954956) | **soso中文搜索** | 资源搜索机器人🤖 | [@soso](https://t.me/soso?start=a_583954956) |
 | **okpay** | 钱包机器人🤖 | [@okpaybot](https://t.me/OkayPayBot?start=creditCardInvite--583954956) | **电报会员哥** | 会员充值机器人🤖 | [@vipgegebot](https://t.me/VIPgegebot) |
+| **阿里云盘资源 Bot** | 阿里云资源机器人🤖 | [@AliYunPanBot](https://t.me/AliYunPanBot) | **夸克云盘发布频道** | 夸克资源频道📢 | [@Quark_Share_Channel](https://t.me/Quark_Share_Channel) |
+| **Telegram 中文社群** | 中文知识库群众💬 | [@tgcnx](https://t.me/tgcnx) | **占位** | 占位📢 | [@暂无](https://t.me/) |
