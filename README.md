@@ -10,4 +10,3 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
      ❗️主動私聊的99.9999%是騙子
      ❗️甄別你即將要點擊的鏈接，不熟悉或怪異的不要點
      ❗️Telegram有很多技术和学习资源，更值得你使用
-![image](https://github.com/gpt22/awesome-telegram/assets/154871070/5e97dcd9-9a38-4aa6-be9b-6eaafffb3913)
