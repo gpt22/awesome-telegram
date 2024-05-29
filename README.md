@@ -18,6 +18,56 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **阿里云盘资源 Bot** | 阿里云资源机器人🤖 | [@AliYunPanBot](https://t.me/AliYunPanBot) | **夸克云盘发布频道** | 夸克资源频道📢 | [@Quark_Share_Channel](https://t.me/Quark_Share_Channel) |
 | **Telegram 中文社群** | 中文知识库群众💬 | [@tgcnx](https://t.me/tgcnx) | **占位** | 占位📢 | [@暂无](https://t.me/) |
 # 新手指南
+<table>
+  <tr>
+  <td align="center">
+      <a href="https://t.me/soso?start=a_7202424896">
+        <img src="https://i.imgur.com/tOUTpDe.png" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://t.me/soso?start=a_7202424896">Soso群组机器人</a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/jisou200000">
+        <img src="https://i.imgur.com/4yErWDj.png" width="345px;" alt="2"/>
+      </a>
+      <br />
+      <a href="https://t.me/jisou200000">TG搜索20万人群</a>
+    </td>
+     <td align="center">
+      <a href="https://t.me/jisou?start=a_7202424896">
+        <img src="https://i.imgur.com/uTMZCDf.png" width="345px;" alt="3"/>
+      </a>
+      <br />
+      <a href="https://t.me/jisou?start=a_7202424896">@极搜机器人</a>
+    </td>
+     </tr>
+  <tr>
+ <td align="center">
+      <a href="https://t.me/ikuaisobot?start=7202424896">
+        <img src="https://i.imgur.com/1sZNxVk.png" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://t.me/ikuaisobot?start=7202424896">@i快搜机器人</a>
+    </td>
+    <td align="center">
+      <a href="https://my.frantech.ca/aff.php?aff=6147">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/buyvm_aff.png" width="345px;" alt="1"/>
+      </a>
+      <br />
+      <a href="https://my.frantech.ca/aff.php?aff=6147">￥10一个月的海外VPS</a>
+    </td>
+    <td align="center">
+      <a href="https://my.racknerd.com/aff.php?aff=6211">
+        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/racknerd_aff.png" width="345px;" alt="2"/>
+      </a>
+      <br />
+      <a href="https://my.racknerd.com/aff.php?aff=6211">48.77每年超高速VPS</a>
+    </td>
+
+
+</table>
+
 |  |  |  |
 | :---: | :---: | :---: |
 | ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban1.png?raw=true "AwesomeTelegram電報中文社區") |  ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban2.png?raw=true "AwesomeTelegram電報中文社區")  | ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban3.png?raw=true "AwesomeTelegram電報中文社區")  |
