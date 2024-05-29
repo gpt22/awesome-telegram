@@ -26,21 +26,21 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
         <img src="https://github.com/gpt22/awesome-telegram/raw/main/img/ban1.png?raw=true" width="333px;" alt="1"/>
       </a>
       <br />
-      <a>AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！</a><a href="https://t.me/tg2277">@TG2277</a> 💬<a href="https://t.me/+Xolikds4-kg0Yzll">对应群组邀请>>></a>
+      <a href="https://t.me/tg2277">@TG2277</a> 💬<a href="https://t.me/+Xolikds4-kg0Yzll">对应群组邀请>>></a>
     </td>
     <td align="center">
       <a href="https://512.jsy.lol/#/register?code=NKRSQr7A">
         <img src="https://github.com/gpt22/awesome-telegram/raw/main/img/ban2.png?raw=true" width="333px;" alt="2"/>
       </a>
       <br />
-      <a>TG最快的VPN邀您免费体验，无限流量，不限设备，支持按量付费不限时长，测速可跑满千兆！</a><a href="https://512.jsy.lol/#/register?code=NKRSQr7A">点击通过邀请码获取>>></a>
+      <a href="https://512.jsy.lol/#/register?code=NKRSQr7A">点击通过邀请码获取>>></a>
     </td>
      <td align="center">
       <a href="https://t.me/+v-Bn6TuQLIdiZGFl">
         <img src="https://github.com/gpt22/awesome-telegram/raw/main/img/ban3.png?raw=true" width="333px;" alt="3"/>
       </a>
       <br />
-      <a>TG上绝大部分资源在这个群可以通过关键词搜索到！</a><a href="https://t.me/+v-Bn6TuQLIdiZGFl">点击邀请入群>>></a>
+      <a href="https://t.me/+v-Bn6TuQLIdiZGFl">点击邀请入群>>></a>
     </td>
      </tr>
 </table>
