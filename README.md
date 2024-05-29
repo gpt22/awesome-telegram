@@ -18,9 +18,9 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **阿里云盘资源 Bot** | 阿里云资源机器人🤖 | [@AliYunPanBot](https://t.me/AliYunPanBot) | **夸克云盘发布频道** | 夸克资源频道📢 | [@Quark_Share_Channel](https://t.me/Quark_Share_Channel) |
 | **Telegram 中文社群** | 中文知识库群众💬 | [@tgcnx](https://t.me/tgcnx) | **占位** | 占位📢 | [@暂无](https://t.me/) |
 # 新手指南
-| ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban1.png?raw=true "AwesomeTelegram電報中文社區") |  |  |  |
+| ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban1.png?raw=true "AwesomeTelegram電報中文社區") |  ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban2.png?raw=true "AwesomeTelegram電報中文社區")  |  |  |
 | --- | --- | --- | --- |
-| AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！ [@TG2277](https://t.me/tg2277) 💬[对应群组邀请>>>](https://t.me/+Xolikds4-kg0Yzll) |  |  |  |
+| AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！ [@TG2277](https://t.me/tg2277) 💬[对应群组邀请>>>](https://t.me/+Xolikds4-kg0Yzll) | TG最快的VPN邀您免费体验，无限流量，不限设备，支持按量付费不限时长，测速可跑满千兆！[点击通过邀请码获取>>>](https://512.jsy.lol/#/register?code=NKRSQr7A) |  |  |
 # 机器人Bot、频道Channel、群组Group推荐
 ❗️机器人、频道和群组合在一起按主题进行推荐了！评分只是个人主观评价，仅供参考！
 
