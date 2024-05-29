@@ -21,58 +21,28 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 <table>
   <tr>
   <td align="center">
-      <a href="https://t.me/soso?start=a_7202424896">
-        <img src="https://i.imgur.com/tOUTpDe.png" width="345px;" alt="1"/>
+      <a href="https://t.me/tg2277">
+        <img src="https://github.com/gpt22/awesome-telegram/raw/main/img/ban1.png?raw=true" width="345px;" alt="1"/>
       </a>
       <br />
-      <a href="https://t.me/soso?start=a_7202424896">Soso群组机器人</a>
+      <a>AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！</a><a href="https://t.me/tg2277">@TG2277</a> 💬<a href="https://t.me/+Xolikds4-kg0Yzll">对应群组邀请>>></a>
     </td>
     <td align="center">
-      <a href="https://t.me/jisou200000">
-        <img src="https://i.imgur.com/4yErWDj.png" width="345px;" alt="2"/>
+      <a href="https://512.jsy.lol/#/register?code=NKRSQr7A">
+        <img src="https://github.com/gpt22/awesome-telegram/raw/main/img/ban2.png?raw=true" width="345px;" alt="2"/>
       </a>
       <br />
-      <a href="https://t.me/jisou200000">TG搜索20万人群</a>
+      <a>TG最快的VPN邀您免费体验，无限流量，不限设备，支持按量付费不限时长，测速可跑满千兆！</a><a href="https://512.jsy.lol/#/register?code=NKRSQr7A">点击通过邀请码获取>>></a>
     </td>
      <td align="center">
-      <a href="https://t.me/jisou?start=a_7202424896">
-        <img src="https://i.imgur.com/uTMZCDf.png" width="345px;" alt="3"/>
+      <a href="https://t.me/+v-Bn6TuQLIdiZGFl">
+        <img src="https://github.com/gpt22/awesome-telegram/raw/main/img/ban3.png?raw=true" width="345px;" alt="3"/>
       </a>
       <br />
-      <a href="https://t.me/jisou?start=a_7202424896">@极搜机器人</a>
+      <a>TG上绝大部分资源在这个群可以通过关键词搜索到！</a><a href="https://t.me/+v-Bn6TuQLIdiZGFl">点击邀请入群>>></a>
     </td>
      </tr>
-  <tr>
- <td align="center">
-      <a href="https://t.me/ikuaisobot?start=7202424896">
-        <img src="https://i.imgur.com/1sZNxVk.png" width="345px;" alt="1"/>
-      </a>
-      <br />
-      <a href="https://t.me/ikuaisobot?start=7202424896">@i快搜机器人</a>
-    </td>
-    <td align="center">
-      <a href="https://my.frantech.ca/aff.php?aff=6147">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/buyvm_aff.png" width="345px;" alt="1"/>
-      </a>
-      <br />
-      <a href="https://my.frantech.ca/aff.php?aff=6147">￥10一个月的海外VPS</a>
-    </td>
-    <td align="center">
-      <a href="https://my.racknerd.com/aff.php?aff=6211">
-        <img src="https://cdn.jsdelivr.net/gh/itgoyo/PicGoRes@master/img/racknerd_aff.png" width="345px;" alt="2"/>
-      </a>
-      <br />
-      <a href="https://my.racknerd.com/aff.php?aff=6211">48.77每年超高速VPS</a>
-    </td>
-
-
 </table>
-
-|  |  |  |
-| :---: | :---: | :---: |
-| ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban1.png?raw=true "AwesomeTelegram電報中文社區") |  ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban2.png?raw=true "AwesomeTelegram電報中文社區")  | ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/ban3.png?raw=true "AwesomeTelegram電報中文社區")  |
-| AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！ [@TG2277](https://t.me/tg2277) 💬[对应群组邀请>>>](https://t.me/+Xolikds4-kg0Yzll) | TG最快的VPN邀您免费体验，无限流量，不限设备，支持按量付费不限时长，测速可跑满千兆！[点击通过邀请码获取>>>](https://512.jsy.lol/#/register?code=NKRSQr7A) | TG上绝大部分资源在这个群可以通过关键词搜索到！[点击邀请入群>>>](https://t.me/+v-Bn6TuQLIdiZGFl) |
-
 # 机器人Bot、频道Channel、群组Group推荐
 ❗️机器人、频道和群组合在一起按主题进行推荐了！评分只是个人主观评价，仅供参考！
 
