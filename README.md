@@ -10,3 +10,26 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
      ❗️主動私聊的99.9999%是騙子
      ❗️甄別你即將要點擊的鏈接，不熟悉或怪異的不要點
      ❗️Telegram有很多技术和学习资源，更值得你使用
+# 推荐必用
+| 名称 | 备注 | 链接 | 名称 | 备注 | 链接 |
+| --- | --- | --- | --- | --- | --- |
+| **极搜中文搜索** | 资源搜索机器人🤖 | [@jisou](https://t.me/jiso?start=a_583954956) | **soso中文搜索** | 资源搜索机器人🤖 | [@soso](https://t.me/soso?start=a_583954956) |
+| **okpay** | 钱包机器人🤖 | [@okpaybot](https://t.me/OkayPayBot?start=creditCardInvite--583954956) | **电报会员哥** | 会员充值机器人🤖 | [@vipgegebot](https://t.me/VIPgegebot) |
+| **阿里云盘资源 Bot** | 阿里云资源机器人🤖 | [@AliYunPanBot](https://t.me/AliYunPanBot) | **夸克云盘发布频道** | 夸克资源频道📢 | [@Quark_Share_Channel](https://t.me/Quark_Share_Channel) |
+| **Telegram 中文社群** | 中文知识库群众💬 | [@tgcnx](https://t.me/tgcnx) | **占位** | 占位📢 | [@暂无](https://t.me/) |
+# 新手指南
+| ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/CHAN.png "AwesomeTelegram電報中文社區") |  |  |  |
+| --- | --- | --- | --- |
+| AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！ [@TG2277](https://t.me/tg2277) |  |  |  |
+# 机器人Bot、频道Channel、群组Group推荐
+❗️机器人、频道和群组合在一起按主题进行推荐了！评分只是个人主观评价，仅供参考！
+
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
