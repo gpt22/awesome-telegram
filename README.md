@@ -20,7 +20,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 # 新手指南
 | ![AwesomeTelegram電報中文社區](https://github.com/gpt22/awesome-telegram/blob/main/img/CHAN.png "AwesomeTelegram電報中文社區") |  |  |  |
 | --- | --- | --- | --- |
-| AwesomeTelegram電報中文社區 |  |  |  |
+| AwesomeTelegram電報中文社區，個人新建的頻道，還沒有正式經營，後續會增加內容，感興趣的進！ [@TG2277](https://t.me/tg2277) |  |  |  |
 # 机器人Bot、频道Channel、群组Group推荐
 ❗️机器人、频道和群组合在一起按主题进行推荐了！评分只是个人主观评价，仅供参考！
 
