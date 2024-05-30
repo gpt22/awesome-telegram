@@ -126,6 +126,17 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+### 语言
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **英语分播@EnglishSlice** | [@englishslice](https://t.me/englishslice) | 📢 | ⭐️⭐️⭐️ | 你可以在这获取英语零食 |
+| **英語 English 學習** | [@Englishyinyu](https://t.me/Englishyinyu) | 📢 | ⭐️⭐️⭐️ | 分享高質量英語 English 英语 杂志 電子書，雜誌 |
+| **英文学习桌** | [@english_learning_discuss](https://t.me/english_learning_discuss) | 📢 | ⭐️⭐️⭐️ | 分享学习资料，原版书籍，报纸新闻 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+
 ## 科学技术
 ### AI人工智能
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -167,7 +178,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **Duyao SpeedTest** | [@DuyaoSS](https://t.me/DuyaoSS) | 📢 | ⭐️⭐️⭐️ | 不定期发布或转发一些资讯测速 |
 | **R探长** | [@agentONE_R](https://t.me/agentONE_R) | 📢 | ⭐️⭐️⭐️ | 发布一些关于各种云服务操作的程序和脚本 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **91yun优惠快讯** | [@express91yun](https://t.me/express91yun) | 📢 | ⭐️⭐️⭐️ |  精选各类云产品及周边优惠，不定时提供羊毛 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -186,8 +197,9 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **财联社** | [@cailianshe](https://t.me/cailianshe) | 📢 | ⭐️⭐️⭐️ | 7X24小时不间断提供全方位的证券信息服务 |
 | **财新网RSS** | [@caixin_web](https://t.me/caixin_web) | 📢 | ⭐️⭐️⭐️ | 整合资讯、观点、多媒体、互动等 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **经济学人(英文) RSS** | [@economist_rss](https://t.me/economist_rss) | 📢 | ⭐️⭐️⭐️⭐️ | no |
+| **经济信息联播** | [@eco_cn](https://t.me/eco_cn) | 📢 | ⭐️⭐️⭐️ | 财经、金融资讯早报，汇总美股、A股收市信息 |
+| **华尔街见闻** | [@FinanceNewsDaily](https://t.me/FinanceNewsDaily) | 📢 | ⭐️⭐️⭐️⭐️ | 资讯、数据、行情、研究和社区等服务 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 #### 区块链
@@ -202,6 +214,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **cnBeta中文业界资讯站** | [@cnbeta_com](https://t.me/cnbeta_com) | 📢 | ⭐️⭐️⭐️⭐️ | 提供IT相关新闻资讯、技术文章和评论 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+
+### Blog
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **发现博客** | [@FindBlog](https://t.me/FindBlog) | 📢 | ⭐️⭐️⭐️ | 发现优秀的博客与创作者发现博客 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 
@@ -225,12 +245,18 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+### 音乐
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **Classical Music** | [@exploreclassical](https://t.me/exploreclassical) | 📢 | ⭐️⭐️⭐️ | 一起来听古典音乐吧 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 ### 妹纸
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **快乐星球妹子图** | [@botmzt](https://t.me/botmzt) | 📢 | ⭐️⭐️⭐️⭐️ | #美女 #妹子 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **FinelyGirlsChannel** | [@finelygirls](https://t.me/finelygirls) | 📢 | ⭐️⭐️⭐️ | 获取随机妹子图片/视频 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
