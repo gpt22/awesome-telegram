@@ -102,8 +102,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **ahhhhfs｜A姐分享** | [@abskoop](https://t.me/abskoop) | 📢 | ⭐️⭐️⭐️⭐️ | 分享资源、影视、软件和福利等有趣的东西 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **资源福利分享** | [@freemorebest](https://t.me/freemorebest) | 📢 | ⭐️⭐️⭐️⭐️ | 每天更新各类影视剧集网盘资源、福利活动、实用软件等 |
+| **极客分享** | [@geekshare](https://t.me/geekshare) | 📢 | ⭐️⭐️⭐️⭐️ | 专注分享各种高质量网站、工具、APP、开源项目等 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -112,7 +112,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **阿里云盘发布频道** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 📢 | ⭐️⭐️⭐️ | 包括不限于包括电影，电视剧，电子书，书籍，无损音乐，美剧 |
 | **阿里云盘4K影视** | [@Aliyun_4K_Movies](https://t.me/Aliyun_4K_Movies) | 📢 | ⭐️⭐️⭐️⭐️ | 阿里云盘4K影视 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **Google Drive 资源** | [@gdsharing](https://t.me/gdsharing) | 📢 | ⭐️⭐️⭐️⭐️ | 这里有各种 Google Drive 资源，包括大电影，小电影，电子书，无损音乐等 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 ### 读书
@@ -162,7 +162,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **秋风のとおり道** | [@AWAvenue](https://t.me/AWAvenue) | 📢 | ⭐️⭐️⭐️ | 分享Android/Windows的软件和相关的文章与教程 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **擅长搜索的高木同学** | [@gaomutongxue](https://t.me/gaomutongxue) | 📢 | ⭐️⭐️⭐️ | no |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -170,6 +170,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **瞎玩菌#SFW** | [@blindgamer](https://t.me/blindgamer) | 📢 | ⭐️⭐️⭐️ | PC / 主机游戏，分享游戏见闻 |
+| **Galgame 频道** | [@Galgamer_Channel](https://t.me/Galgamer_Channel) | 📢 | ⭐️⭐️⭐️⭐️ | Galgame 资讯和推荐 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -238,10 +239,18 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 ## 娱乐
 
+### 搞笑
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
 ### 播客
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **精选中文播客** | [@chinapodcast](https://t.me/chinapodcast) | 📢 | ⭐️⭐️⭐️⭐️ | 实时推送热门播客节目 |
+| **搞笑研究所️** | [@gaoxiaoshu](https://t.me/gaoxiaoshu) | 📢 | ⭐️⭐️⭐️ | 每日笑点放送//趣味研究 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -249,7 +258,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **Classical Music** | [@exploreclassical](https://t.me/exploreclassical) | 📢 | ⭐️⭐️⭐️ | 一起来听古典音乐吧 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **音乐收藏** | [@flac_file](https://t.me/flac_file) | 📢 | ⭐️⭐️⭐️ | 无损音乐收藏频道 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 ### 妹纸
