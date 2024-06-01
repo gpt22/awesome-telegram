@@ -74,7 +74,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 👉 谨防盗号！谨防盗号！谨防盗号 ‼️ | 👉 客户端设置各式各样的主题 📱 |
 | 👉 Email Login 邮箱接收登录验证码 📨 | 👉 如何设置TG代理连接 🪜 |
 | 👉 你的账号被 Telegram 官方限制了 🔑 | 👉 官方客户端和第三方客户端 💻 |
-| 👉 Telegram 和 Telegram X ⚒ |  |
+| 👉 Telegram 和 Telegram X ⚒ | https://t.me/tg2277/13 |
 
 # 机器人Bot、频道Channel、群组Group推荐
 ❗️机器人、频道和群组合在一起按主题进行推荐了！评分只是个人主观评价，仅供参考！
