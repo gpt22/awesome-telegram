@@ -106,6 +106,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **极客分享** | [@geekshare](https://t.me/geekshare) | 📢 | ⭐️⭐️⭐️⭐️ | 专注分享各种高质量网站、工具、APP、开源项目等 |
 | **互联网从业者充电站** | [@https1024](https://t.me/https1024) | 📢 | ⭐️⭐️⭐️⭐️ | 技术、产品、设计、运营等不同话题内容 |
 | **LIHAI Channel** | [@lihaiba](https://t.me/lihaiba) | 📢 | ⭐️⭐️⭐️⭐️ | 一个分享频道，希望推送的内容对你有所帮助 |
+| **拾趣** | [@peekfun](https://t.me/peekfun) | 📢 | ⭐️⭐️⭐️ | 分享一点有趣的事情、有用的东西 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -128,7 +130,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **普通休闲书籍** | [@bookusefor4](https://t.me/bookusefor4) | 📢 | ⭐️⭐️⭐️ | 书籍的资源堆积 |
 | **Λ-Reading** | [@GoReading](https://t.me/GoReading) | 📢 | ⭐️⭐️⭐️ | 书和读书书摘书籍推荐book科技人文资讯分享 |
 | **杂志新闻** | [@magazinesclubnew](https://t.me/magazinesclubnew) | 📢 | ⭐️⭐️⭐️ | no |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **PDF图书联盟 电子书 ebook** | [@PDFtushuguan](https://t.me/PDFtushuguan) | 📢 | ⭐️⭐️⭐️⭐️ | 无规律无方向的持续分享一些书目，以及资源和有趣的内容 |
+| **Word Power Made Easy** | [@pieroots](https://t.me/pieroots) | 📢 | ⭐️⭐️⭐️ | 原始印欧语，拉丁语，古希腊语词根记忆法学习 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -162,6 +165,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **RSSHub 布告栏** | [@awesomeRSSHub](https://t.me/awesomeRSSHub) | 📢 | ⭐️⭐️⭐️⭐️ | RSSHub 核心更新 |
 | **开发者日报** | [@cndevdaily](https://t.me/cndevdaily) | 📢 | ⭐️⭐️⭐️ | 爬取热门，优质，阅读性强的内容 |
+| **开源社区** | [@opencfdchannel](https://t.me/opencfdchannel) | 📢 | ⭐️⭐️⭐️⭐️ | Android/Linux/Windows/MacOS/iOS |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -173,6 +178,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **胖虎の收藏夹** | [@gitbig](https://t.me/gitbig) | 📢 | ⭐️⭐️⭐️⭐️ | 机场 破解 软件 白嫖 教程 脚本 |
 | **沉浸式翻译频道** | [@immersivetranslate](https://t.me/immersivetranslate) | 📢 | ⭐️⭐️⭐️ | 沉浸式翻译频道 |
 | **Legado 开源阅读 频道** | [@Legado_Channels](https://t.me/Legado_Channels) | 📢 | ⭐️⭐️⭐️ | 阅读APK、书源、主题排版及部分公众号内容 |
+| **Google Play限免信息** | [@playsales](https://t.me/playsales) | 📢 | ⭐️⭐️⭐️⭐️ | 不定时推介Play Store上的限免游戏，应用喵 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -241,6 +247,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **科技&趣闻&杂记** | [@kejiqu](https://t.me/kejiqu) | 📢 | ⭐️⭐️⭐️⭐️ | 包括但不限于科技新闻、知识、影视娱乐资讯 |
 | **科技圈的日常** | [@misakatech](https://t.me/misakatech) | 📢 | ⭐️⭐️⭐️⭐️ | 科技圈内的大事小事 |
 | **NewMobileLife** | [@newmobilelife](https://t.me/newmobilelife) | 📢 | ⭐️⭐️⭐️⭐️ | 限時免費情報、Apple 消息、科技新知、實用秘技 |
+| **层叠 The Cascading** | [@outvivid](https://t.me/outvivid) | 📢 | ⭐️⭐️⭐️ | 开源业界新闻 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -367,6 +375,9 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **绝对萌域** | [@moeisland](https://t.me/moeisland) | 📢 | ⭐️⭐️⭐️⭐️ | 都是最新的萌图 |
 | **萌图志** | [@moepic](https://t.me/moepic) | 📢 | ⭐️⭐️⭐️⭐️ | 不定时推送一些二次元插画 |
+| **萌图** | [@ovov1234](https://t.me/ovov1234) | 📢 | ⭐️⭐️⭐️⭐️ | 分享 pixiv 美图 萌图 壁纸 |
+| **PIXIV站每日 Top50搬运** | [@pixiv_top50](https://t.me/pixiv_top50) | 📢 | ⭐️⭐️⭐️⭐️ | PIXIV每天綜合排行榜前50圖片資源，不定時更新 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
