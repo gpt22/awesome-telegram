@@ -118,6 +118,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **阿里云盘4K影视** | [@Aliyun_4K_Movies](https://t.me/Aliyun_4K_Movies) | 📢 | ⭐️⭐️⭐️⭐️ | 阿里云盘4K影视 |
 | **Google Drive 资源** | [@gdsharing](https://t.me/gdsharing) | 📢 | ⭐️⭐️⭐️⭐️ | 这里有各种 Google Drive 资源，包括大电影，小电影，电子书，无损音乐等 |
 | **纪录片爱好者** | [@jlpahz ](https://t.me/jlpahz ) | 📢 | ⭐️⭐️ | 专注分享高清纪录片的频道 |
+| **Netflix影视🎬𝑵𝑭𝑯𝑫** | [@PornNFHD](https://t.me/PornNFHD) | 📢 | ⭐️⭐️⭐️ | 电影 电视剧 国产 港台剧 美剧 韩剧 日剧 泰剧随缘分享 不定期更新 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -132,6 +134,10 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **杂志新闻** | [@magazinesclubnew](https://t.me/magazinesclubnew) | 📢 | ⭐️⭐️⭐️ | no |
 | **PDF图书联盟 电子书 ebook** | [@PDFtushuguan](https://t.me/PDFtushuguan) | 📢 | ⭐️⭐️⭐️⭐️ | 无规律无方向的持续分享一些书目，以及资源和有趣的内容 |
 | **Word Power Made Easy** | [@pieroots](https://t.me/pieroots) | 📢 | ⭐️⭐️⭐️ | 原始印欧语，拉丁语，古希腊语词根记忆法学习 |
+| **The Economist 外刊** | [@Qikan2023](https://t.me/Qikan2023) | 📢 | ⭐️⭐️⭐️⭐️ | 经济学人,纽约客,财新周刊,卫报,华尔街日报,中国日报,科学 |
+| **好读 ReadFine电子书屋** | [@Readfine](https://t.me/Readfine) | 📢 | ⭐️⭐️⭐️ | 好读提供电子书一站式体验 |
+| **外滩读书会** | [@readingclubus](https://t.me/readingclubus) | 📢 | ⭐️⭐️⭐️⭐️⭐️ | 以英文为主的报纸、杂志、电子书及财经报告分享 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -293,6 +299,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 ## 文化娱乐
 
+Reddit 精选:https://t.me/reddit_one
+
 ### 搞笑
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
@@ -331,6 +339,9 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **Classical Music** | [@exploreclassical](https://t.me/exploreclassical) | 📢 | ⭐️⭐️⭐️ | 一起来听古典音乐吧 |
 | **音乐收藏** | [@flac_file](https://t.me/flac_file) | 📢 | ⭐️⭐️⭐️ | 无损音乐收藏频道 |
+| **精选音乐收藏馆** | [@qing_03](https://t.me/qing_03) | 📢 | ⭐️⭐️ | 精选音乐收藏馆 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 ### 妹纸
