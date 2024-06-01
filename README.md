@@ -98,12 +98,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 ❗️机器人、频道和群组合在一起按主题进行推荐了！评分只是个人主观评价，仅供参考！
 
 ## 资源分享
-### 互联网资源
+### 网络综合资源
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **ahhhhfs｜A姐分享** | [@abskoop](https://t.me/abskoop) | 📢 | ⭐️⭐️⭐️⭐️ | 分享资源、影视、软件和福利等有趣的东西 |
 | **资源福利分享** | [@freemorebest](https://t.me/freemorebest) | 📢 | ⭐️⭐️⭐️⭐️ | 每天更新各类影视剧集网盘资源、福利活动、实用软件等 |
 | **极客分享** | [@geekshare](https://t.me/geekshare) | 📢 | ⭐️⭐️⭐️⭐️ | 专注分享各种高质量网站、工具、APP、开源项目等 |
+| **互联网从业者充电站** | [@https1024](https://t.me/https1024) | 📢 | ⭐️⭐️⭐️⭐️ | 技术、产品、设计、运营等不同话题内容 |
+| **LIHAI Channel** | [@lihaiba](https://t.me/lihaiba) | 📢 | ⭐️⭐️⭐️⭐️ | 一个分享频道，希望推送的内容对你有所帮助 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -113,26 +115,30 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **阿里云盘发布频道** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 📢 | ⭐️⭐️⭐️ | 包括不限于包括电影，电视剧，电子书，书籍，无损音乐，美剧 |
 | **阿里云盘4K影视** | [@Aliyun_4K_Movies](https://t.me/Aliyun_4K_Movies) | 📢 | ⭐️⭐️⭐️⭐️ | 阿里云盘4K影视 |
 | **Google Drive 资源** | [@gdsharing](https://t.me/gdsharing) | 📢 | ⭐️⭐️⭐️⭐️ | 这里有各种 Google Drive 资源，包括大电影，小电影，电子书，无损音乐等 |
+| **纪录片爱好者** | [@jlpahz ](https://t.me/jlpahz ) | 📢 | ⭐️⭐️ | 专注分享高清纪录片的频道 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
-### 读书
+### 阅读图书资料
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **好书分享频道** | [@Bookworm_Bibliophile](https://t.me/Bookworm_Bibliophile) | 📢 | ⭐️⭐️⭐️⭐️ | 读书，找到更美的世界与生活 |
 | **计算机与其他书籍资源** | [@bookusefor2](https://t.me/bookusefor2) | 📢 | ⭐️⭐️ | 收集一些与互联网相关有价值的书籍系列 |
 | **计算机类书籍** | [@bookusefor3](https://t.me/bookusefor3) | 📢 | ⭐️⭐️⭐️ | 计算机专业化的书籍系列 |
 | **普通休闲书籍** | [@bookusefor4](https://t.me/bookusefor4) | 📢 | ⭐️⭐️⭐️ | 书籍的资源堆积 |
+| **Λ-Reading** | [@GoReading](https://t.me/GoReading) | 📢 | ⭐️⭐️⭐️ | 书和读书书摘书籍推荐book科技人文资讯分享 |
+| **杂志新闻** | [@magazinesclubnew](https://t.me/magazinesclubnew) | 📢 | ⭐️⭐️⭐️ | no |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
-### 语言
+### 语言学习
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **英语分播@EnglishSlice** | [@englishslice](https://t.me/englishslice) | 📢 | ⭐️⭐️⭐️ | 你可以在这获取英语零食 |
 | **英語 English 學習** | [@Englishyinyu](https://t.me/Englishyinyu) | 📢 | ⭐️⭐️⭐️ | 分享高質量英語 English 英语 杂志 電子書，雜誌 |
 | **英文学习桌** | [@english_learning_discuss](https://t.me/english_learning_discuss) | 📢 | ⭐️⭐️⭐️ | 分享学习资料，原版书籍，报纸新闻 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **日语学习** | [@jp_study](https://t.me/jp_study) | 📢 | ⭐️⭐️⭐️ | 日语 日剧 学习 日文 日本 语言 资源 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -146,6 +152,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **ChatGPT / AI新闻聚合** | [@AI_News_CN ](https://t.me/AI_News_CN) | 📢 | ⭐️⭐⭐️ | OpenAI状态页通知 汇集全网ChatGPT/AI新闻 |
 | **AI绘画 AI视频** | [@AI_Pintura ](https://t.me/AI_Pintura) | 📢 | ⭐️⭐⭐️ | 分享AI绘画、AI视频相关资源与技巧。 |
 | **ChatGPT精选** | [@AwesomeChatGPT](https://t.me/AwesomeChatGPT) | 📢 | ⭐️⭐️⭐️⭐️ | ChatGPT 精选资源 |
+| **chatGPT中文社区** | [@LptTech](https://t.me/LptTech) | 📢 | ⭐️⭐️⭐️⭐️ | #chatGPT #互联网 #科技 #AI #人工智能 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -163,6 +170,10 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **秋风のとおり道** | [@AWAvenue](https://t.me/AWAvenue) | 📢 | ⭐️⭐️⭐️ | 分享Android/Windows的软件和相关的文章与教程 |
 | **擅长搜索的高木同学** | [@gaomutongxue](https://t.me/gaomutongxue) | 📢 | ⭐️⭐️⭐️ | no |
+| **胖虎の收藏夹** | [@gitbig](https://t.me/gitbig) | 📢 | ⭐️⭐️⭐️⭐️ | 机场 破解 软件 白嫖 教程 脚本 |
+| **沉浸式翻译频道** | [@immersivetranslate](https://t.me/immersivetranslate) | 📢 | ⭐️⭐️⭐️ | 沉浸式翻译频道 |
+| **Legado 开源阅读 频道** | [@Legado_Channels](https://t.me/Legado_Channels) | 📢 | ⭐️⭐️⭐️ | 阅读APK、书源、主题排版及部分公众号内容 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -191,6 +202,15 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+### 科学上网
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+
+
 ## 新闻资讯
 
 ### 财经
@@ -207,6 +227,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **链闻 ChainNews** | [@chainnews](https://t.me/chainnews) | 📢 | ⭐️⭐️⭐️ | 区块链新闻、快讯、深度分析以及评论 |
+| **币世界快讯【区块链】** | [@NewsCoinSpace](https://t.me/NewsCoinSpace) | 📢 | ⭐️⭐️⭐️ | 区块链 币世界快讯 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -215,6 +236,19 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **cnBeta中文业界资讯站** | [@cnbeta_com](https://t.me/cnbeta_com) | 📢 | ⭐️⭐️⭐️⭐️ | 提供IT相关新闻资讯、技术文章和评论 |
+| **Yummy** | [@GodlyNews1](https://t.me/GodlyNews1) | 📢 | ⭐️⭐️⭐️⭐️ | 不定期推送科技数码类新资讯 |
+| **你不知道的内幕消息** | [@inside1024](https://t.me/inside1024) | 📢 | ⭐️⭐️⭐️⭐️ | 最新行业资讯、以及大公司的负面新闻、财经观点信息、好物推荐 |
+| **科技&趣闻&杂记** | [@kejiqu](https://t.me/kejiqu) | 📢 | ⭐️⭐️⭐️⭐️ | 包括但不限于科技新闻、知识、影视娱乐资讯 |
+| **科技圈的日常** | [@misakatech](https://t.me/misakatech) | 📢 | ⭐️⭐️⭐️⭐️ | 科技圈内的大事小事 |
+| **NewMobileLife** | [@newmobilelife](https://t.me/newmobilelife) | 📢 | ⭐️⭐️⭐️⭐️ | 限時免費情報、Apple 消息、科技新知、實用秘技 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+### 新闻
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **纽约时报双语新闻** | [@nyt_bilingual](https://t.me/nyt_bilingual) | 📢 | ⭐️⭐️⭐️ | The New York Times |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 
@@ -222,6 +256,18 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **发现博客** | [@FindBlog](https://t.me/FindBlog) | 📢 | ⭐️⭐️⭐️ | 发现优秀的博客与创作者发现博客 |
+| **Lin's 文字世界** | [@LinsBookA](https://t.me/LinsBookA) | 📢 | ⭐️⭐️⭐️⭐️ | 个人见闻/B站视频/网络见闻 |
+| **啰哩啰嗦分享频道** | [@notonlyshare](https://t.me/notonlyshare) | 📢 | ⭐️⭐️⭐️ | 一个克制的、理性的关注互联网科技和人文的频道 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+### 知识
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **你不知道的冷知识** | [@knowledge1024](https://t.me/knowledge1024) | 📢 | ⭐️⭐️⭐️⭐️ | 有趣的、无趣的、有用的、没用的知识未来引入其他分类知识内容 |
+| **國家地理雜誌 中文版** | [@natgeomedia](https://t.me/natgeomedia) | 📢 | ⭐️⭐️⭐️⭐️ | Hi 探險家，和國家地理一起探索世界吧！ |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -237,11 +283,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
-## 娱乐
+## 文化娱乐
 
 ### 搞笑
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
+| **上班划水之无聊图** | [@goworkbitch](https://t.me/goworkbitch) | 📢 | ⭐️⭐️⭐️⭐️ | 无 |
+| **可爱の收藏** | [@kawaii_collection](https://t.me/kawaii_collection) | 📢 | ⭐️⭐️⭐️⭐️ |  致力于传播快乐分享一些趣图、萌宠和可爱的东西 |
+| **每天趣事** | [@Meitian](https://t.me/Meitian) | 📢 | ⭐️⭐️⭐️ | 多样沙雕冷笑话，津津乐道稀奇事 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -253,6 +302,21 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **搞笑研究所️** | [@gaoxiaoshu](https://t.me/gaoxiaoshu) | 📢 | ⭐️⭐️⭐️ | 每日笑点放送//趣味研究 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+### 电影
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **电影爱好者** | [@MovieAnywhere](https://t.me/MovieAnywhere) | 📢 | ⭐️⭐️⭐️ | 影迷交流 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+### 泛文化类
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **中外美文語錄** | [@nicequotes123](https://t.me/nicequotes123) | 📢 | ⭐️⭐️⭐️ | 摘錄名人、名著、電影等語錄。好文好片分享 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
 
 ### 音乐
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -266,16 +330,40 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **快乐星球妹子图** | [@botmzt](https://t.me/botmzt) | 📢 | ⭐️⭐️⭐️⭐️ | #美女 #妹子 |
 | **FinelyGirlsChannel** | [@finelygirls](https://t.me/finelygirls) | 📢 | ⭐️⭐️⭐️ | 获取随机妹子图片/视频 |
+| **看小姐姐** | [@kanxiaojiejie](https://t.me/kanxiaojiejie) | 📢 | ⭐️⭐️⭐️⭐️ | 街拍 私拍 私房 妹子 福利 美女 摄影 性感 唯美 小姐姐 |
+| **朱颜别镜  妹子图** | [@meizitu3](https://t.me/meizitu3) | 📢 | ⭐️⭐️⭐️⭐️ | 网美女,妹子图收藏最是人间留不住 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
-### 图片壁纸
+### 图像视觉
+#### 壁纸
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **ANIME壁纸** | [@acgwallpaper](https://t.me/acgwallpaper) | 📢 | ⭐️⭐️⭐️ | 每天更新一次 Update daily |
 | **高分壁纸推荐** | [@acgzhenghe](https://t.me/acgzhenghe) | 📢 | ⭐️⭐️⭐️ | 每一张壁纸都以推荐语+评分的形式推送 |
 | **壁纸Wallpaper** | [@bizhi123](https://t.me/bizhi123) | 📢 | ⭐️⭐️⭐️ | 喜欢请多多分享，谢谢！ |
 | **头像/壁纸** | [@BiZhiSo](https://t.me/BiZhiSo) | 📢 | ⭐️⭐️⭐️ | 每人都可以投稿的头像/壁纸频道 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+#### 摄影
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
 | **每日摄影观察** | [@cnphotog_collect](https://t.me/cnphotog_collect) | 📢 | ⭐️⭐️⭐️ | 一个不严肃的摄影频道群组 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+#### 吸猫
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **撸猫社** | [@lumaoshe](https://t.me/lumaoshe) | 📢 | ⭐️⭐️⭐️⭐️ | 🐱🐱🐱 爱猫人士云吸猫特供 |
+| **每日无数猫** | [@miaowu](https://t.me/miaowu) | 📢 | ⭐️⭐️⭐️⭐️ | 让我们打造一个全是猫的世界 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+#### 二次元
+| **绝对萌域** | [@moeisland](https://t.me/moeisland) | 📢 | ⭐️⭐️⭐️⭐️ | 都是最新的萌图 |
+| **萌图志** | [@moepic](https://t.me/moepic) | 📢 | ⭐️⭐️⭐️⭐️ | 不定时推送一些二次元插画 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
