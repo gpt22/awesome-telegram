@@ -285,11 +285,13 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+其它罗列
+Reddit 精选:https://t.me/reddit_one
 
 ### 👥 社区
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **微博合集** | [@weibo_one](https://t.me/weibo_one) | 📢 | ⭐️⭐️⭐️ | no |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
@@ -305,8 +307,6 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 ## 文化娱乐
-
-Reddit 精选:https://t.me/reddit_one
 
 ### 😂 搞笑
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -350,6 +350,8 @@ Reddit 精选:https://t.me/reddit_one
 | **Classical Music** | [@exploreclassical](https://t.me/exploreclassical) | 📢 | ⭐️⭐️⭐️ | 一起来听古典音乐吧 |
 | **音乐收藏** | [@flac_file](https://t.me/flac_file) | 📢 | ⭐️⭐️⭐️ | 无损音乐收藏频道 |
 | **精选音乐收藏馆** | [@qing_03](https://t.me/qing_03) | 📢 | ⭐️⭐️ | 精选音乐收藏馆 |
+| **【佳佳】文案素材吧** | [@WenAnBa](https://t.me/WenAnBa) | 📢 | ⭐️⭐️ | 心心念念是旧人🌸🌸笔笔写下是旧情🌸 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
