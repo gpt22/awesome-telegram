@@ -90,6 +90,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **LIHAI Channel** | [@lihaiba](https://t.me/lihaiba) | 📢 | ⭐️⭐️⭐️⭐️ | 一个分享频道，希望推送的内容对你有所帮助 |
 | **拾趣** | [@peekfun](https://t.me/peekfun) | 📢 | ⭐️⭐️⭐️ | 分享一点有趣的事情、有用的东西 |
 | **如有乐享** | [@ruyoblog](https://t.me/ruyoblog) | 📢 | ⭐️⭐️⭐️⭐️ | 偏云服务器，优惠活动，羊毛信息，以及各种BUG |
+| **油油资源分享** | [@youyousharechannel](https://t.me/youyousharechannel) | 📢 | ⭐️⭐️⭐️⭐️⭐️ | Windows、Mac OS、Linux、Android、iPhone、iPad、TV、影视、福利、磁力、软件、插件、脚本、破解、教程 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -102,9 +104,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Google Drive 资源** | [@gdsharing](https://t.me/gdsharing) | 📢 | ⭐️⭐️⭐️⭐️ | 这里有各种 Google Drive 资源，包括大电影，小电影，电子书，无损音乐等 |
 | **纪录片爱好者** | [@jlpahz ](https://t.me/jlpahz ) | 📢 | ⭐️⭐️ | 专注分享高清纪录片的频道 |
 | **Netflix影视🎬𝑵𝑭𝑯𝑫** | [@PornNFHD](https://t.me/PornNFHD) | 📢 | ⭐️⭐️⭐️ | 电影 电视剧 国产 港台剧 美剧 韩剧 日剧 泰剧随缘分享 不定期更新 |
+| **肯德基 4K 电影 发布频道** | [@XiangxiuNB](https://t.me/XiangxiuNB) | 📢 | ⭐️⭐️⭐️ | 主要分享最新的电影网盘资源 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+其它
+
+[爷青回动画分享频道](https://t.me/yeqingjie_GJG666) | 
 
 ### 📚 阅读图书资料
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -170,9 +177,15 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **沉浸式翻译频道** | [@immersivetranslate](https://t.me/immersivetranslate) | 📢 | ⭐️⭐️⭐️ | 沉浸式翻译频道 |
 | **Legado 开源阅读 频道** | [@Legado_Channels](https://t.me/Legado_Channels) | 📢 | ⭐️⭐️⭐️ | 阅读APK、书源、主题排版及部分公众号内容 |
 | **Google Play限免信息** | [@playsales](https://t.me/playsales) | 📢 | ⭐️⭐️⭐️⭐️ | 不定时推介Play Store上的限免游戏，应用喵 |
+| **Widget🏂软件工具精选** | [@WidgetChannel](https://t.me/WidgetChannel) | 📢 | ⭐️⭐️⭐️ | 不定期推送有用有趣的内容，包括但不限于：软件 工具 网站 科技新闻 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+其它
+
+[Leeco-雪花社](https://t.me/xuehuashe) | [乱七八糟的储物箱](https://t.me/xyxyspace)
 
 ### 🕹️ 硬件游戏
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -223,9 +236,15 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **经济信息联播** | [@eco_cn](https://t.me/eco_cn) | 📢 | ⭐️⭐️⭐️ | 财经、金融资讯早报，汇总美股、A股收市信息 |
 | **华尔街见闻** | [@FinanceNewsDaily](https://t.me/FinanceNewsDaily) | 📢 | ⭐️⭐️⭐️⭐️ | 资讯、数据、行情、研究和社区等服务 |
 | **Time经济观察** | [@TimeHorizonX ](https://t.me/TimeHorizonX ) | 📢 | ⭐️⭐️⭐️ | 宏观经济/公共政策/金融市场 |
+| **华尔街日报 RSS** | [@wsj_rss](https://t.me/wsj_rss) | 📢 | ⭐️⭐️⭐️ | no |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+其它
+
+[校长读报](https://t.me/XiaoZhangDuBao)
+
 
 #### 🔗 区块链
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -237,6 +256,10 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+其它
+
+[吴说区块链 新闻与深度](https://t.me/wublock)
 
 ### 🔬 科技
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -277,6 +300,10 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+其它
+
+[Yuan的记事本 📚✍🏻 分享 软件 新闻 Yuan's Notepad](https://t.me/Yuan_En) |
+
 ### 💡 知识
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
@@ -287,6 +314,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 其它罗列  
+
 [Reddit精选](https://t.me/reddit_one)
 
 ### 👥 社区
@@ -316,6 +344,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **可爱の收藏** | [@kawaii_collection](https://t.me/kawaii_collection) | 📢 | ⭐️⭐️⭐️⭐️ |  致力于传播快乐分享一些趣图、萌宠和可爱的东西 |
 | **每天趣事** | [@Meitian](https://t.me/Meitian) | 📢 | ⭐️⭐️⭐️ | 多样沙雕冷笑话，津津乐道稀奇事 |
 | **如何与沙雕相处** | [@ruheyushadiaoxiangchu](https://t.me/ruheyushadiaoxiangchu) | 📢 | ⭐️⭐️⭐️ | no |
+| **每日沙雕墙** | [@woshadiao](https://t.me/woshadiao) | 📢 | ⭐️⭐️⭐️⭐️ | 在座的各位都是沙雕 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -340,10 +369,15 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **中外美文語錄** | [@nicequotes123](https://t.me/nicequotes123) | 📢 | ⭐️⭐️⭐️ | 摘錄名人、名著、電影等語錄。好文好片分享 |
 | **Reddit 精选** | [@reddit_one](https://t.me/reddit_one) | 📢 | ⭐️⭐️⭐️ | no |
+| **【佳佳】文案素材吧** | [@WenAnBa](https://t.me/WenAnBa) | 📢 | ⭐️⭐️ | 心心念念是旧人🌸🌸笔笔写下是旧情🌸 |
+| **有故事的女同学** | [@WenAnGuan_botjihuo](https://t.me/WenAnGuan_botjihuo) | 📢 | ⭐️⭐️⭐️ | 网易云热评💖一眼就喜欢的文案💌 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+其它
+
+[短句文案](https://t.me/yidu520) | 
 
 ### 🎶 音乐
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -351,7 +385,6 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Classical Music** | [@exploreclassical](https://t.me/exploreclassical) | 📢 | ⭐️⭐️⭐️ | 一起来听古典音乐吧 |
 | **音乐收藏** | [@flac_file](https://t.me/flac_file) | 📢 | ⭐️⭐️⭐️ | 无损音乐收藏频道 |
 | **精选音乐收藏馆** | [@qing_03](https://t.me/qing_03) | 📢 | ⭐️⭐️ | 精选音乐收藏馆 |
-| **【佳佳】文案素材吧** | [@WenAnBa](https://t.me/WenAnBa) | 📢 | ⭐️⭐️ | 心心念念是旧人🌸🌸笔笔写下是旧情🌸 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -406,4 +439,6 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
-123
+其它
+
+[一个兴趣使然的动漫切段频道](https://t.me/xqsranimegif)
