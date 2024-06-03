@@ -228,7 +228,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **表情包👾贴纸** | [@tiezhia](https://t.me/tiezhia) | 📢 | ⭐️⭐️⭐️⭐️ | 电报专业贴纸、表情包分享 |
 | **Tips de Telegram** | [@TelegramTipsES](https://t.me/TelegramTipsES) | 📢 | ⭐️⭐️⭐️⭐️ | Telegram es sinónimo de libertad y privacidad y tiene muchas funciones fáciles de usar. |
 | **Telegram Premium** | [@premium](https://t.me/premium) | 📢 | ⭐️⭐️⭐️⭐️ | Telegram Premium – a subscription that unlocks dozens of exclusive features. |
-| **Telegram Stickers | Стикеры** | [@TgSticker](https://t.me/TgSticker) | 📢 | ⭐️⭐️⭐️⭐️ | Telegram Stickers! |
+| **Telegram Stickers** | [@TgSticker](https://t.me/TgSticker) | 📢 | ⭐️⭐️⭐️⭐️ | Telegram Stickers! |
 | **Telegram Beta** | [@tgbeta](https://t.me/tgbeta) | 📢 | ⭐️⭐️⭐️ | Much Telegram, much wow. |
 | **BotNews** | [@BotNews](https://t.me/BotNews) | 📢 | ⭐️⭐️⭐️⭐️ | The official source for news about the Telegram Bot API. |
 | **Stickers Channel** | [@stickersChannel ](https://t.me/stickersChannel ) | 📢 | ⭐️⭐️⭐️ | Stickers Channel |
