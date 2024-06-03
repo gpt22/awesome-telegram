@@ -1,6 +1,7 @@
 # Awesome Telegram
 Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程序员、极客、科技宅、开发者以及其他对计算机和编程感兴趣的人使用、交流和分享。** ⚠️转发请标注来源：https://t.me/TG2277 **
-##### 這裡將為您推薦Telegram精選頻道、群組、機器人和使用的工具與技巧！⚠️本內容僅針對非中國大陸地區中文用戶⚠️！🚫請嚴格遵守當地法律法規🚫 中國大陸地區不支持使用Telegram！
+#### 這裡將為您推薦Telegram精選頻道、群組、機器人和使用的工具與技巧！⚠️本內容僅針對非中國大陸地區中文用戶⚠️！🚫請嚴格遵守當地法律法規🚫 中國大陸地區不支持使用Telegram！
+### 新建文档 持续更新中...
 # 友情提醒
      ❗️請注意保護個人隱私，不向任何陌生人發送個人信息
      ❗️不要發佈和傳播任何未經證實的信息
@@ -112,7 +113,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 其它
 
-[爷青回动画分享频道](https://t.me/yeqingjie_GJG666) | 
+[爷青回动画分享频道📢](https://t.me/yeqingjie_GJG666) | [免費資源網路社群 Free Group📢](https://t.me/Free_Group) |  |  | 
 
 ### 📚 阅读图书资料
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -196,6 +197,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Galgame 频道** | [@Galgamer_Channel](https://t.me/Galgamer_Channel) | 📢 | ⭐️⭐️⭐️⭐️ | Galgame 资讯和推荐 |
 | **TVBox** | [@TVbox888](https://t.me/TVbox888) | 📢 | ⭐️⭐️⭐️ | Tvbox | 猫影视TV | 网络接口只做一件事，解放你的电视 |
 | **Google Drive 无限容量** | [@google_drive](https://t.me/google_drive) | 📢 | ⭐️⭐️⭐️ | 本群提供无限容量 Google Drive 申请方法、大电影小电影电子书无损音乐等资源 |
+| **小米玩机交流群** | [@xiaomi6666](https://t.me/xiaomi6666) | 💬 | ⭐️⭐️⭐️ | 群聊禁色情、辱骂、广告、黑产！ |
+| **你有一个打折需要了解** | [@SteamNy](https://t.me/SteamNy) | 📢 | ⭐️⭐️⭐️ | no |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -228,6 +231,9 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Telegram Stickers | Стикеры** | [@TgSticker](https://t.me/TgSticker) | 📢 | ⭐️⭐️⭐️⭐️ | Telegram Stickers! |
 | **Telegram Beta** | [@tgbeta](https://t.me/tgbeta) | 📢 | ⭐️⭐️⭐️ | Much Telegram, much wow. |
 | **BotNews** | [@BotNews](https://t.me/BotNews) | 📢 | ⭐️⭐️⭐️⭐️ | The official source for news about the Telegram Bot API. |
+| **Stickers Channel** | [@stickersChannel ](https://t.me/stickersChannel ) | 📢 | ⭐️⭐️⭐️ | Stickers Channel |
+| **Dicas do Telegram** | [@TelegramTipsBR](https://t.me/TelegramTipsBR) | 📢 | ⭐️⭐️⭐️ | Telegram é sinônimo de liberdade e privacidade, e tem várias funcionalidades fáceis de usar. |
+| **Telegram Android Themes** | [@AndroidThemesGroup](https://t.me/AndroidThemesGroup) | 📢 | ⭐️⭐️⭐️ ⭐️⭐️ | Keep the topic theme-relatedMore Info |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -243,6 +249,9 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **订阅分享中心** | [@dingyue_Center](https://t.me/dingyue_Center) | 📢 | ⭐️⭐️⭐️⭐️ | 分享高速订阅/节点&机场测试推荐 |
 | **Quantumult X JS 收集分享** | [@QuanXJS](https://t.me/QuanXJS) | 📢 | ⭐️⭐️⭐️ | Quantumult X JS 收集分享 |
 | **Shadowrocket News** | [@ShadowrocketNews ](https://t.me/ShadowrocketNews ) | 📢 | ⭐️⭐️⭐️⭐️ | Shadowrocket 作者是 Guangming Li |
+| **NobyDa Script** | [邀请](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w) | 💬 | ⭐️⭐️⭐️ | 该群组基于QX、Surge、Loon脚本功能的调试、开发、内测相关讨论 |
+| **SCP 稳定免费节点** | [@ShareCentrePro](https://t.me/ShareCentrePro) | 📢 | ⭐️⭐️⭐️⭐️ | no |
+| **撸猫云魔法** | [@merlinclashcat](https://t.me/merlinclashcat) | 📢 | ⭐️⭐️⭐️⭐️ | 猫咪爬梯连世界 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -271,7 +280,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 其它
 
-[校长读报](https://t.me/XiaoZhangDuBao)
+[校长读报📢](https://t.me/XiaoZhangDuBao) | [🌐 机场列表📢](https://t.me/jichang_list) | 
 
 
 #### 🔗 区块链
@@ -281,6 +290,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **币世界快讯【区块链】** | [@NewsCoinSpace](https://t.me/NewsCoinSpace) | 📢 | ⭐️⭐️⭐️ | 区块链 币世界快讯 |
 | **Telo News 简体中文 - 加密货币** | [@telonews_cn](https://t.me/telonews_cn) | 📢 | ⭐️⭐️⭐️⭐️ | 最新的加密货币新闻，观点和数据分析，洞见市场发展 |
 | **BlockBeats** | [@theblockbeats](https://t.me/theblockbeats) | 📢 | ⭐️⭐️ | 专业的区块链研究机构与资讯平台 |
+| **iMe Messenger & Crypto Wallet** | [@ime_en](https://t.me/ime_en) | 📢 | ⭐️⭐️⭐️ | The official English channel iMe!iMe is a client powered by Telegram API with Crypto Wallet and additional functionality |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -356,6 +366,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **微博合集** | [@weibo_one](https://t.me/weibo_one) | 📢 | ⭐️⭐️⭐️ | no |
 | **新蛤社** | [@XinHaNewsAgency](https://t.me/XinHaNewsAgency) | 📢 | ⭐️⭐️⭐️ | 新蛤社，让世界听到江学的声音 |
 | **电报人:群讨论对事不对人** | [@three001](https://t.me/three001) | 💬 | ⭐️⭐️⭐️⭐️ | 信息分享,了解世界,强大自己 |
+| **Iyouport** | [@iyouport](https://t.me/iyouport) | 📢 | ⭐️⭐️⭐️ | 自由港 新闻包和工具箱 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -378,9 +389,19 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **赚客吧 有奖一起赚** | [@zuanke8](https://t.me/zuanke8) | 📢 | ⭐️⭐️⭐️ | 全网电商平台，优惠促销打折海淘BUG价活动线报 |
+| **远程工作者** | [@remote_cn](https://t.me/remote_cn) | 📢 | ⭐️⭐️⭐️ | 分享国内远程工作相关的文章、讨论和工作机会等。 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+
+### 💸 闲聊
+| 名称 | 链接 | 类型 | 评分 | 说明 |
+| --- | --- | --- | --- | --- |
+| **沙雕根据地** | [@shadiaoo](https://t.me/shadiaoo) | 💬 | ⭐️⭐️⭐️ | 非正常人类专属群组😒🍭进群后请放飞自我🌚 |
+| **爷青结动画分享交流群** | [@yeqingjie](https://t.me/yeqingjie) | 💬 | ⭐️⭐️⭐️ | 带大家寻找儿时的回忆 |
+| **标题** | [@abc](https://t.me/abc) | 💬 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 💬 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **标题** | [@abc](https://t.me/abc) | 💬 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 ## 文化娱乐
 
