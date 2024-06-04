@@ -92,7 +92,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **拾趣** | [@peekfun](https://t.me/peekfun) | 📢 | ⭐️⭐️⭐️ | 分享一点有趣的事情、有用的东西 |
 | **如有乐享** | [@ruyoblog](https://t.me/ruyoblog) | 📢 | ⭐️⭐️⭐️⭐️ | 偏云服务器，优惠活动，羊毛信息，以及各种BUG |
 | **油油资源分享** | [@youyousharechannel](https://t.me/youyousharechannel) | 📢 | ⭐️⭐️⭐️⭐️⭐️ | Windows、Mac OS、Linux、Android、iPhone、iPad、TV、影视、福利、磁力、软件、插件、脚本、破解、教程 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **小声读书 🧤** | [@weekly_books](https://t.me/weekly_books) | 📢 | ⭐️⭐️⭐️ | 一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -252,6 +252,10 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **NobyDa Script** | [邀请](https://t.me/joinchat/JikZ61Y-WyLUu6dBFPfu6w) | 💬 | ⭐️⭐️⭐️ | 该群组基于QX、Surge、Loon脚本功能的调试、开发、内测相关讨论 |
 | **SCP 稳定免费节点** | [@ShareCentrePro](https://t.me/ShareCentrePro) | 📢 | ⭐️⭐️⭐️⭐️ | no |
 | **撸猫云魔法** | [@merlinclashcat](https://t.me/merlinclashcat) | 📢 | ⭐️⭐️⭐️⭐️ | 猫咪爬梯连世界 |
+| **Shadowrocket** | [@ShadowrocketApp](https://t.me/ShadowrocketApp) | 💬 | ⭐️⭐️⭐️ | Shadowrocket |
+| **免费F墙加S器交流** | [@gouwu](https://t.me/gouwu) | 💬 | ⭐️⭐️⭐️ | 杜绝其他任何话题！专业的事儿交给专业的人！ |
+| **全网最强分享: 白嫖/节点/订阅** | [@Jsnzk](https://t.me/Jsnzk) | 📢 | ⭐️⭐️⭐️ | 科学上网/教程/破解/软件/资源/网站/撸羊毛/apk，ipa，TF |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -339,6 +343,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **啰哩啰嗦分享频道** | [@notonlyshare](https://t.me/notonlyshare) | 📢 | ⭐️⭐️⭐️ | 一个克制的、理性的关注互联网科技和人文的频道 |
 | **某科学的一个频道** | [@titan_pain](https://t.me/titan_pain) | 📢 | ⭐️⭐️⭐️ | 转发互联网上有趣的内容 |
 | **Newlearnerの自留地** | [@NewlearnerChannel](https://t.me/NewlearnerChannel) | 📢 | ⭐️⭐️⭐️⭐️ | 不定期推送 IT 相关资讯 |
+| **全球主流新闻媒体中文速览** | [@allzhnews](https://t.me/allzhnews) | 📢 | ⭐️⭐️⭐️ | no |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -373,7 +379,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 其它
 
-[📣文宣中国📣📢](爱memes，用幽默抵抗虚假) | 
+[📣文宣中国📣📢](爱memes，用幽默抵抗虚假) | [V2EX后花园 v2.0💬](https://t.me/goV2EX)
 
 ## 生活服务
 ### 🛍️ 购物海淘
@@ -381,6 +387,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | --- | --- | --- | --- | --- |
 | **亚马逊每日热销降价** | [@amazonhotevery](https://t.me/amazonhotevery) | 📢 | ⭐️⭐️⭐️ | 推送亚马逊的每日热销榜、降价榜，以及双11、黑五特价信息 |
 | **合租通知** | [@hezu2](https://t.me/hezu2) | 📢 | ⭐️⭐️⭐️ | Netflix YouTube Spotify office365 Hbo Surge 美剧 等音乐影视聊天机场电影盒子 |
+| **Digital Immigrants** | [@Licensesss](https://t.me/Licensesss) | 📢 | ⭐️⭐️⭐️ | 合租 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -414,6 +422,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **如何与沙雕相处** | [@ruheyushadiaoxiangchu](https://t.me/ruheyushadiaoxiangchu) | 📢 | ⭐️⭐️⭐️ | no |
 | **每日沙雕墙** | [@woshadiao](https://t.me/woshadiao) | 📢 | ⭐️⭐️⭐️⭐️ | 在座的各位都是沙雕 |
 | **GIF 群聚地** | [@GIFgroupTW](https://t.me/GIFgroupTW) | 📢 | ⭐️⭐️⭐️ | no |
+| **土味生活** | [@tuweishenghuo](https://t.me/tuweishenghuo) | 📢 | ⭐️⭐️⭐️ | 土味生活 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -485,6 +494,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
 | **每日摄影观察** | [@cnphotog_collect](https://t.me/cnphotog_collect) | 📢 | ⭐️⭐️⭐️ | 一个不严肃的摄影频道群组 |
+| **Tg攝影社群** | [@photographyintelegram ](https://t.me/photographyintelegram ) | 💬 | ⭐️⭐️⭐️⭐️ | 歡迎熱愛攝影、當代攝影、當代藝術的朋友加入 |
+| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
