@@ -171,6 +171,10 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+其它
+
+[NewlearnerのIT社群💬](https://t.me/NewlearnerGroup) | 
+
 ### 👾 软件APPS
 | 名称 | 链接 | 类型 | 评分 | 说明 |
 | --- | --- | --- | --- | --- |
@@ -199,6 +203,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Google Drive 无限容量** | [@google_drive](https://t.me/google_drive) | 📢 | ⭐️⭐️⭐️ | 本群提供无限容量 Google Drive 申请方法、大电影小电影电子书无损音乐等资源 |
 | **小米玩机交流群** | [@xiaomi6666](https://t.me/xiaomi6666) | 💬 | ⭐️⭐️⭐️ | 群聊禁色情、辱骂、广告、黑产！ |
 | **你有一个打折需要了解** | [@SteamNy](https://t.me/SteamNy) | 📢 | ⭐️⭐️⭐️ | no |
+| **Apple TV** | [@AppleTVPlus](https://t.me/AppleTVPlus) | 💬 | ⭐️⭐️⭐️ | Apple TV 用户交流群 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -234,13 +239,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Stickers Channel** | [@stickersChannel ](https://t.me/stickersChannel ) | 📢 | ⭐️⭐️⭐️ | Stickers Channel |
 | **Dicas do Telegram** | [@TelegramTipsBR](https://t.me/TelegramTipsBR) | 📢 | ⭐️⭐️⭐️ | Telegram é sinônimo de liberdade e privacidade, e tem várias funcionalidades fáceis de usar. |
 | **Telegram Android Themes** | [@AndroidThemesGroup](https://t.me/AndroidThemesGroup) | 📢 | ⭐️⭐️⭐️ ⭐️⭐️ | Keep the topic theme-relatedMore Info |
+| **Telegram X** | [@tgx_android](https://t.me/tgx_android) | 📢 | ⭐️⭐️⭐️⭐️ | Developer's personal channel |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 其它
 
-[Vanilla | Telegram Themes](https://t.me/VanillaTG) |  |  | 
+[Vanilla | Telegram Themes](https://t.me/VanillaTG) | [Telegram for macOS Updates](https://t.me/macos_stable_updates_files) | |  | 
 
 ### 🔒 科学上网
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -255,7 +261,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Shadowrocket** | [@ShadowrocketApp](https://t.me/ShadowrocketApp) | 💬 | ⭐️⭐️⭐️ | Shadowrocket |
 | **免费F墙加S器交流** | [@gouwu](https://t.me/gouwu) | 💬 | ⭐️⭐️⭐️ | 杜绝其他任何话题！专业的事儿交给专业的人！ |
 | **全网最强分享: 白嫖/节点/订阅** | [@Jsnzk](https://t.me/Jsnzk) | 📢 | ⭐️⭐️⭐️ | 科学上网/教程/破解/软件/资源/网站/撸羊毛/apk，ipa，TF |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **白嫖订阅** | [@freekankan](https://t.me/freekankan) | 📢 | ⭐️⭐️⭐️ | 白嫖订阅 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -318,6 +324,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **少数派sspai** | [@sspai ](https://t.me/sspai ) | 📢 | ⭐️⭐️ | 少数派 (sspai.com) 官方频道 |
 | **软件新闻频道📮在花投稿** | [@TestFlightCN](https://t.me/TestFlightCN) | 📢 | ⭐️⭐️⭐️⭐️ | 日常发送科技资讯ℹ️为主偶尔发一些大家关注的社会热点 |
 | **eSir PlayGround** | [邀请](https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA) | 💬 | ⭐️⭐️⭐️ | no |
+| **Hacker News** | [@hacker_news_feed](https://t.me/hacker_news_feed) | 📢 | ⭐️⭐️⭐️ | Hacker News |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -330,6 +337,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **俄罗斯 卫星通讯社 中文全文** | [@ru_rss](https://t.me/ru_rss) | 📢 | ⭐️⭐️⭐️ | no |
 | **台湾 中央社 香港 苹果日报** | [@ttww_rss](https://t.me/ttww_rss) | 📢 | ⭐️⭐️⭐️ | RSS全文订阅 实时更新 |
 | **BBC中文 全文 实时推送** | [@bbczhongwen_rss ](https://t.me/bbczhongwen_rss ) | 📢 | ⭐️⭐️⭐️ | RSS全文订阅 实时更新 |
+| **德国 德国之声 中文全文** | [@dw_rss](https://t.me/dw_rss) | 📢 | ⭐️⭐️⭐️ | 德国 德国之声 中文全文 |
+| **美国之音 全文 实时推送** | [@meiguozhiyin_rss](https://t.me/meiguozhiyin_rss) | 📢 | ⭐️⭐️⭐️ | 美国之音 全文 实时推送 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -388,7 +397,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **亚马逊每日热销降价** | [@amazonhotevery](https://t.me/amazonhotevery) | 📢 | ⭐️⭐️⭐️ | 推送亚马逊的每日热销榜、降价榜，以及双11、黑五特价信息 |
 | **合租通知** | [@hezu2](https://t.me/hezu2) | 📢 | ⭐️⭐️⭐️ | Netflix YouTube Spotify office365 Hbo Surge 美剧 等音乐影视聊天机场电影盒子 |
 | **Digital Immigrants** | [@Licensesss](https://t.me/Licensesss) | 📢 | ⭐️⭐️⭐️ | 合租 |
-| **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
+| **合租社群** | [@hezu1](https://t.me/hezu1) | 💬 | ⭐️⭐️⭐️ | Netflix YouTube Spotify office365 Hbo Surge 美剧 等 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
