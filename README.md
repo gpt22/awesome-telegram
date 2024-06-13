@@ -131,6 +131,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **外滩读书会** | [@readingclubus](https://t.me/readingclubus) | 📢 | ⭐️⭐️⭐️⭐️⭐️ | 以英文为主的报纸、杂志、电子书及财经报告分享 |
 | **书屋 电子书 📚 𝑻𝑮𝒆𝑩𝒐𝒐𝒌** | [@TGeBook](https://t.me/TGeBook) | 📢 | ⭐️⭐️⭐️⭐️ | 电子书 杂志 小说 期刊 读物 不定时更新 |
 | **ZBook,电子书 📚 小说 漫画资源分享** | [@ziyuanfeng59](https://t.me/ziyuanfeng59) | 📢 | ⭐️⭐️⭐️⭐️⭐️ | no |
+| **小声读书 ☘** | [@what_youread](https://t.me/what_youread) | 💬 | ⭐️⭐️⭐️ | 小声读书是一个探索数字阅读可能性和未来的开放项目，致力于打破信息茧房，挖掘价值信息。 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -185,6 +186,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Legado 开源阅读 频道** | [@Legado_Channels](https://t.me/Legado_Channels) | 📢 | ⭐️⭐️⭐️ | 阅读APK、书源、主题排版及部分公众号内容 |
 | **Google Play限免信息** | [@playsales](https://t.me/playsales) | 📢 | ⭐️⭐️⭐️⭐️ | 不定时推介Play Store上的限免游戏，应用喵 |
 | **Widget🏂软件工具精选** | [@WidgetChannel](https://t.me/WidgetChannel) | 📢 | ⭐️⭐️⭐️ | 不定期推送有用有趣的内容，包括但不限于：软件 工具 网站 科技新闻 |
+| **浥轻尘の黑科技&软件脚本破解库** | [@yqc_123](https://t.me/yqc_123) | 📢 | ⭐️⭐️⭐️⭐️⭐️ | 专注于 iOS 破解、规则、脚本、补丁、插件、软件、逆向、越狱、开源、内测、限免、证书、教程、福利等资源分享 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -223,7 +225,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 其它
 
-[全球主机交流中心💬](https://t.me/VPSchat) | 
+[全球主机交流中心💬](https://t.me/VPSchat) | [腾讯云☆阿里云💬](https://t.me/TencentAliyun) |  [靠谱VPS推荐📢](https://t.me/vpscang) | 
 
 ### 💬 Telegram周边
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -240,6 +242,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Dicas do Telegram** | [@TelegramTipsBR](https://t.me/TelegramTipsBR) | 📢 | ⭐️⭐️⭐️ | Telegram é sinônimo de liberdade e privacidade, e tem várias funcionalidades fáceis de usar. |
 | **Telegram Android Themes** | [@AndroidThemesGroup](https://t.me/AndroidThemesGroup) | 📢 | ⭐️⭐️⭐️ ⭐️⭐️ | Keep the topic theme-relatedMore Info |
 | **Telegram X** | [@tgx_android](https://t.me/tgx_android) | 📢 | ⭐️⭐️⭐️⭐️ | Developer's personal channel |
+| **NordProxi** | [@NordProxi](https://t.me/NordProxi) | 📢 | ⭐️⭐️⭐️⭐️ | MTProxy |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -262,13 +265,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **免费F墙加S器交流** | [@gouwu](https://t.me/gouwu) | 💬 | ⭐️⭐️⭐️ | 杜绝其他任何话题！专业的事儿交给专业的人！ |
 | **全网最强分享: 白嫖/节点/订阅** | [@Jsnzk](https://t.me/Jsnzk) | 📢 | ⭐️⭐️⭐️ | 科学上网/教程/破解/软件/资源/网站/撸羊毛/apk，ipa，TF |
 | **白嫖订阅** | [@freekankan](https://t.me/freekankan) | 📢 | ⭐️⭐️⭐️ | 白嫖订阅 |
+| **Telegram 中文频道** | [@tgcnz](https://t.me/tgcnz) | 📢 | ⭐️⭐️⭐️⭐️ | 中文/汉化/知识/教程, 科技, 机场, 科学上网 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 其它
 
-[TGCN 机场联盟](https://t.me/SSUnion)
+[TGCN 机场联盟📢](https://t.me/SSUnion) | [Quantumult X News📢](https://t.me/QuanXNews) | [NobyDa Script💬](https://t.me/joinchat/JtzRlVY-WyJPDavvhKjrbw)
 
 
 ## 新闻资讯
@@ -290,7 +294,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 
 其它
 
-[校长读报📢](https://t.me/XiaoZhangDuBao) | [🌐 机场列表📢](https://t.me/jichang_list) | 
+[校长读报📢](https://t.me/XiaoZhangDuBao) | [🌐 机场列表📢](https://t.me/jichang_list) |  [SS节点公益发放🚀📢](https://t.me/sslist) | 
 
 
 #### 🔗 区块链
@@ -339,10 +343,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **BBC中文 全文 实时推送** | [@bbczhongwen_rss ](https://t.me/bbczhongwen_rss ) | 📢 | ⭐️⭐️⭐️ | RSS全文订阅 实时更新 |
 | **德国 德国之声 中文全文** | [@dw_rss](https://t.me/dw_rss) | 📢 | ⭐️⭐️⭐️ | 德国 德国之声 中文全文 |
 | **美国之音 全文 实时推送** | [@meiguozhiyin_rss](https://t.me/meiguozhiyin_rss) | 📢 | ⭐️⭐️⭐️ | 美国之音 全文 实时推送 |
+| **The Washington Post** | [@washingtonpost](https://t.me/washingtonpost) | 📢 | ⭐️⭐️⭐️⭐️ | The official Washington Post channel |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
+其它
+
+[看鉴中国 OutsightChina📢](https://t.me/OutsightChina) | 
 
 ### 📝 Blog
 | 名称 | 链接 | 类型 | 评分 | 说明 |
@@ -382,13 +390,14 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **新蛤社** | [@XinHaNewsAgency](https://t.me/XinHaNewsAgency) | 📢 | ⭐️⭐️⭐️ | 新蛤社，让世界听到江学的声音 |
 | **电报人:群讨论对事不对人** | [@three001](https://t.me/three001) | 💬 | ⭐️⭐️⭐️⭐️ | 信息分享,了解世界,强大自己 |
 | **Iyouport** | [@iyouport](https://t.me/iyouport) | 📢 | ⭐️⭐️⭐️ | 自由港 新闻包和工具箱 |
+| **群友问🗳万事答** | [@ShortcutsCN](https://t.me/ShortcutsCN) | 📢 | ⭐️⭐️⭐️⭐️ | 发现各种喜闻乐见，只要是问题，你都可以在这里问 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 
 其它
 
-[📣文宣中国📣📢](爱memes，用幽默抵抗虚假) | [V2EX后花园 v2.0💬](https://t.me/goV2EX)
+[📣文宣中国📣📢](爱memes，用幽默抵抗虚假) | [V2EX后花园 v2.0💬](https://t.me/goV2EX) | [wikipedia-zh💬](https://t.me/wikipedia_zh_n)
 
 ## 生活服务
 ### 🛍️ 购物海淘
@@ -398,6 +407,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **合租通知** | [@hezu2](https://t.me/hezu2) | 📢 | ⭐️⭐️⭐️ | Netflix YouTube Spotify office365 Hbo Surge 美剧 等音乐影视聊天机场电影盒子 |
 | **Digital Immigrants** | [@Licensesss](https://t.me/Licensesss) | 📢 | ⭐️⭐️⭐️ | 合租 |
 | **合租社群** | [@hezu1](https://t.me/hezu1) | 💬 | ⭐️⭐️⭐️ | Netflix YouTube Spotify office365 Hbo Surge 美剧 等 |
+| **Google Voice 交流群** | [@googlevoice](https://t.me/googlevoice) | 💬 | ⭐️⭐️⭐️ | 讨论 Google Voice 号码使用的方法、技巧，以及提供相关服务资讯 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
