@@ -243,6 +243,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **Telegram Android Themes** | [@AndroidThemesGroup](https://t.me/AndroidThemesGroup) | 📢 | ⭐️⭐️⭐️ ⭐️⭐️ | Keep the topic theme-relatedMore Info |
 | **Telegram X** | [@tgx_android](https://t.me/tgx_android) | 📢 | ⭐️⭐️⭐️⭐️ | Developer's personal channel |
 | **NordProxi** | [@NordProxi](https://t.me/NordProxi) | 📢 | ⭐️⭐️⭐️⭐️ | MTProxy |
+| **Nicegram** | [@nicegramapp](https://t.me/nicegramapp) | 📢 | ⭐️⭐️⭐️⭐️ | Best iOS Telegram Fork. Fast, secure and nice messaging app. |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -266,6 +267,8 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **全网最强分享: 白嫖/节点/订阅** | [@Jsnzk](https://t.me/Jsnzk) | 📢 | ⭐️⭐️⭐️ | 科学上网/教程/破解/软件/资源/网站/撸羊毛/apk，ipa，TF |
 | **白嫖订阅** | [@freekankan](https://t.me/freekankan) | 📢 | ⭐️⭐️⭐️ | 白嫖订阅 |
 | **Telegram 中文频道** | [@tgcnz](https://t.me/tgcnz) | 📢 | ⭐️⭐️⭐️⭐️ | 中文/汉化/知识/教程, 科技, 机场, 科学上网 |
+| **科学上网观察与机场测速** | [@jichangtj ](https://t.me/jichangtj ) | 📢 | ⭐️⭐️⭐️⭐️ | 科学上网和科技相关新闻资讯 |
+| **不良林** | [@buliang00](https://t.me/buliang00) | 📢 | ⭐️⭐️⭐️⭐️ | 科学上网，资源分享 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -329,6 +332,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **软件新闻频道📮在花投稿** | [@TestFlightCN](https://t.me/TestFlightCN) | 📢 | ⭐️⭐️⭐️⭐️ | 日常发送科技资讯ℹ️为主偶尔发一些大家关注的社会热点 |
 | **eSir PlayGround** | [邀请](https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA) | 💬 | ⭐️⭐️⭐️ | no |
 | **Hacker News** | [@hacker_news_feed](https://t.me/hacker_news_feed) | 📢 | ⭐️⭐️⭐️ | Hacker News |
+| **每日消费电子观察** | [@CE_Observe](https://t.me/CE_Observe) | 📢 | ⭐️⭐️⭐️ | 不公正 不客观 不理性投稿 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
@@ -534,6 +538,7 @@ Telegram有趣的群组、频道和机器人推荐列表。 Telegram 适合程�
 | **萌图** | [@ovov1234](https://t.me/ovov1234) | 📢 | ⭐️⭐️⭐️⭐️ | 分享 pixiv 美图 萌图 壁纸 |
 | **PIXIV站每日 Top50搬运** | [@pixiv_top50](https://t.me/pixiv_top50) | 📢 | ⭐️⭐️⭐️⭐️ | PIXIV每天綜合排行榜前50圖片資源，不定時更新 |
 | **SomeACG 每日少女壁纸** | [@SomeACG](https://t.me/SomeACG) | 📢 | ⭐️⭐️⭐️⭐️ | 这里是全TG质量最高的ACG壁纸频道 |
+| **嗶咔嗶咔頻道** | [@PicACG](https://t.me/PicACG) | 📢 | ⭐️⭐️⭐️ | 嗶咔漫畫官方頻道，由官方及官方授權者營運 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
 | **标题** | [@abc](https://t.me/abc) | 📢 | ⭐️⭐️⭐️⭐️ | 说明 |
